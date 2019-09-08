@@ -1,0 +1,2 @@
+ATLAS_URI=mongodb+srv://MyMongoDBUser:password@issuetracker-btvex.mongodb.net/test?retryWrites=true&w=majority
+jwtSecret=secretkeyLoL
